@@ -18,7 +18,8 @@ the contribution, they will learn valuable skills including:
 On the second day, participants will get a theoretical introduction on what
 techniques can be helpful when managing an own software development team.
 Quality and speed considerations concerning startups will be discussed and
-evaluated
+evaluated. The day will be concluded with a few words on how and when to scale
+a project appropriately followed by an open end Hackevening.
 
 This workshop is brought to you by your friends from
 [Viper Development](http://viperdev.io/).
@@ -75,6 +76,7 @@ Topic: Managing a Software Development Team
 2. Prototyping
 3. Quality
 4. Discussion: Testing? Documentation? Quality? Speed?
-5. Hackevening!
+5. Scaling
+6. Hackevening!
 
 13:30-18:00h
