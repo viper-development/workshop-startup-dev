@@ -50,7 +50,8 @@ piece of software that supports developers during their whole workflow.
   about Git and distributed development workflows.
 - Please bring a laptop.
 - Do not forget a charger.
-- Account registration at github.com is a required. If you're idealistic, read
+- A free account registration at github.com is a required. If you're idealistic,
+  read
   [Terms of Service](https://help.github.com/articles/github-terms-of-service/)
   and check if you're good with them.
 - You should be able to understand english and german.
@@ -63,11 +64,12 @@ Topic: Software Development as Developer
 
 Time         |Topic
 -------------|---------------------------------------
-10:00 - 10:15|Introduction
-10:15 - 10:30|Who is Who
-10:30 - 10:50|What is Git
-10:50 - 11:15|Git Setup and Break (Install, Config) *
-11:15 - 11:30|Git Commit
+10:00 - 10:20|Introduction
+10:20 - 10:50|Who is Who
+10:50 - 11:05|What is Git
+11:05 - 11:30|Git Setup and Break (Install, Config) *
+11:30 - 11:40|Creating a Project
+11:40 - 11:50|Creating a Commit
 
 ## Second Day
 
