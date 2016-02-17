@@ -21,6 +21,9 @@ This workshop is brought to you by your friends from
   about Git and distributed development workflows.
 - Please bring a laptop.
 - Do not forget a charger.
+- Account registration at github.com is a required. If you're idealistic, read
+  [Terms of Service](https://help.github.com/articles/github-terms-of-service/)
+  and check if you're good with them.
 
 # Schedule
 
