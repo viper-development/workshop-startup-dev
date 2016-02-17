@@ -1,2 +1,4 @@
-# workshop-startup-dev
-Preparation for a Workshop About Software Development in Teams
+# Software Development in Teams
+
+This workshop covers a theoretical and practical introduction to software
+development in teams.
