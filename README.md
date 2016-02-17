@@ -14,8 +14,10 @@ Topic: Software Development as Developer
 
 |Time         |Topic                                  |
 |-------------|---------------------------------------|
-|10:00 - 10:50|Introduction                           |
-|10:50 - 11:00|Break                                  |
+|10:00 - 10:15|Introduction                           |
+|10:15 - 10:30|Who is Who                             |
+|10:30 - 10:50|What is Git                            |
+|10:50 - 11:15|Git Setup and Break                    |
 
 ## Second Day
 
