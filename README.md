@@ -10,7 +10,7 @@ contribution to a real open source project with over 30 contributors
 distributed software development workflow can be implemented effectively.
 
 This workshop is brought to you by your friends from
-[ViperDev](http://viperdev.io/).
+[Viper Development](http://viperdev.io/).
 
 ## About the Speaker
 
