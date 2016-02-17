@@ -15,6 +15,11 @@ the contribution, they will learn valuable skills including:
 - Reviewing code.
 - Automating quality control.
 
+On the second day, participants will get a theoretical introduction on what
+techniques can be helpful when managing an own software development team.
+Quality and speed considerations concerning startups will be discussed and
+evaluated
+
 This workshop is brought to you by your friends from
 [Viper Development](http://viperdev.io/).
 
@@ -69,5 +74,7 @@ Topic: Managing a Software Development Team
 1. Software Development vs. Programming
 2. Prototyping
 3. Quality
+4. Discussion: Testing? Documentation? Quality? Speed?
+5. Hackevening!
 
 13:30-18:00h
