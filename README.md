@@ -61,16 +61,24 @@ piece of software that supports developers during their whole workflow.
 
 Topic: Software Development as Developer
 
-|Time         |Topic                                  |
-|-------------|---------------------------------------|
-|10:00 - 10:15|Introduction                           |
-|10:15 - 10:30|Who is Who                             |
-|10:30 - 10:50|What is Git                            |
-|10:50 - 11:15|Git Setup and Break                    |
+Time         |Topic
+-------------|---------------------------------------
+10:00 - 10:15|Introduction
+10:15 - 10:30|Who is Who
+10:30 - 10:50|What is Git
+10:50 - 11:15|Git Setup and Break (Install, Config) *
+11:15 - 11:30|Git Commit
 
 ## Second Day
 
 Topic: Managing a Software Development Team
+
+Time       |Topic
+-----------|-------------------------------------------
+13:30-14:00|Software Development vs. Programming
+14:00-14:10|Prototyping
+           |
+17:00-late |Hackevening
 
 1. Software Development vs. Programming
 2. Prototyping
