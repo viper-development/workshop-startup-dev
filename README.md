@@ -5,9 +5,9 @@ software development in teams.
 
 Participants will be introduced to Git, a version control system that is used
 in open source and industry projects likewise. All participants will do a
-contribution to a real open source project ([coala](http://coala-analyzer.org/))
-to experience first hand, how a distributed software development workflow can be
-implemented effectively.
+contribution to a real open source project with over 30 contributors
+([coala](http://coala-analyzer.org/)) to experience first hand, how a
+distributed software development workflow can be implemented effectively.
 
 This workshop is brought to you by your friends from
 [ViperDev](http://viperdev.io/).
