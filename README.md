@@ -7,7 +7,13 @@ Participants will be introduced to Git, a version control system that is used
 in open source and industry projects likewise. All participants will do a
 contribution to a real open source project with over 30 contributors
 ([coala](http://coala-analyzer.org/)) to experience first hand, how a
-distributed software development workflow can be implemented effectively.
+distributed software development workflow can be implemented efficiently. During
+the contribution, they will learn valuable skills including:
+
+- Using Git, basics as well as advanced features.
+- Working efficiently on one project with a scalable team.
+- Reviewing code.
+- Automating quality control.
 
 This workshop is brought to you by your friends from
 [Viper Development](http://viperdev.io/).
