@@ -12,6 +12,23 @@ distributed software development workflow can be implemented effectively.
 This workshop is brought to you by your friends from
 [ViperDev](http://viperdev.io/).
 
+## About the Speaker
+
+Lasse Schuirmann is a freelance software developer who cares passionately about
+open source, collaboratively developed software. After he was awarded the Google
+Summer of Code sholarship, he began mentoring several students while
+administering the GSoC program for the GNOME organization. Currently he spends
+most of his time maintaining and developing his open source project coala to
+help developers improving their code quality without hassle. coala nowadays has
+more than ten contributors every week and is present at conferences all around
+the world.
+
+In his spare time, Lasse forges high quality (mostly python) software and
+conducts workshops for clients of his company Viper Development
+([viperdev.io](http://viperdev.io/)), pursues a master degree in Computer
+Science and develops GitMate ([gitmate.io](http://gitmate.io/)), a hand crafted
+piece of software that supports developers during their whole workflow.
+
 ## Requirements
 
 - It's ok if you don't know Git.
@@ -24,6 +41,7 @@ This workshop is brought to you by your friends from
 - Account registration at github.com is a required. If you're idealistic, read
   [Terms of Service](https://help.github.com/articles/github-terms-of-service/)
   and check if you're good with them.
+- You should be able to understand english and german.
 
 # Schedule
 
