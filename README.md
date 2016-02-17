@@ -67,5 +67,7 @@ Topic: Software Development as Developer
 Topic: Managing a Software Development Team
 
 1. Software Development vs. Programming
+2. Prototyping
+3. Quality
 
 13:30-18:00h
