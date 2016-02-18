@@ -15,11 +15,11 @@ the contribution, they will learn valuable skills including:
 - Reviewing code.
 - Automating quality control.
 
-On the second day, participants will get a theoretical introduction on what
-techniques can be helpful when managing an own software development team.
-Quality and speed considerations concerning startups will be discussed and
-evaluated. The day will be concluded with a few words on how and when to scale
-a project appropriately followed by an open end Hackevening.
+On the second day, participants will get an introduction on what techniques can
+be helpful when managing an own software development team. Quality and speed
+considerations concerning startups will be discussed and evaluated. The day will
+be concluded with a few words on how to scale a project appropriately followed
+by an open end Hackevening where individual projects can be hacked on together.
 
 This workshop is brought to you by your friends from
 [Viper Development](http://viperdev.io/).
