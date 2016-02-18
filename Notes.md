@@ -8,9 +8,9 @@
 
 ## Who is Who (30)
 
-- Daw a picture and pin it. (1+5)
-- Explain in one minute to the others what you want from the workshop and what
-  project you have in mind. (2/person)
+- Explain what you expect from this workshop, what peaqued your interest and
+  what possible IT project you would love to work on if you could choose any.
+- Two minutes for everyone.
 
 ## What is Git (15)
 
