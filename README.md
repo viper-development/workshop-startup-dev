@@ -47,7 +47,7 @@ piece of software that supports developers during their whole workflow.
 - Basic knowledge about programming is required.
 - If you have more advanced knowledge about programming/software development,
   you will still have a lot of fun in the excercises and be able to learn a lot
-  about Git and distributed development workflows.
+  about Git and software team management.
 - Please bring a laptop.
 - Do not forget a charger.
 - A free account registration at github.com is required. If you're idealistic,
