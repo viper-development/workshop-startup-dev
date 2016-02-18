@@ -4,6 +4,9 @@
 
 - I'm Lasse (5)
 - This is what we'll do. Especially today. (10)
+    - Git alone. Versions. Controlled.
+    - Pulling from a project - working together.
+    - Rewriting history - quality working.
 - This Gitter channel we'll use for link exchange. (5)
 
 ## Who is Who (30)
@@ -14,8 +17,11 @@
 
 ## What is Git (15)
 
-- git - the stupid content tracker (10)
-- What to do
+- What is git anyway (10)
+- What to do:
+    - Download
+    - Install
+    - Configure
 
 ## Git Setup and Break (25)
 
@@ -23,7 +29,17 @@
 - Config Git
 - Drink Tea
 
-## Git
+## Git Basics (15)
+
+- Creating a Project
+- Repository vs. Files
+- Making an intial commit
+- Making a second commit
+- Commits are objects!
+
+## Git Basics - Excercise (15)
+
+Creating, initial commit, second commit.
 
 # Day 2
 

@@ -58,18 +58,20 @@ piece of software that supports developers during their whole workflow.
 
 # Schedule
 
+Excercises are marked with (*).
+
 ## First Day
 
 Topic: Software Development as Developer
 
 Time         |Topic
--------------|---------------------------------------
+-------------|------------------------------------------
 10:00 - 10:20|Introduction
-10:20 - 10:50|Who is Who
+10:20 - 10:50|Who is Who (*)
 10:50 - 11:05|What is Git
-11:05 - 11:30|Git Setup and Break (Install, Config) *
-11:30 - 11:40|Creating a Project
-11:40 - 11:50|Creating a Commit
+11:05 - 11:30|Git Setup and Break (Install, Config) (*)
+11:30 - 11:45|Git Basics - Introduction
+11:45 - 12:00|Git Basics - Excercise (*)
 
 ## Second Day
 
