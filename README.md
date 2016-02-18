@@ -11,9 +11,9 @@ distributed software development workflow can be implemented efficiently. During
 the contribution, they will learn valuable skills including:
 
 - Using Git, basics as well as advanced features.
-- Working efficiently on one project with a scalable team.
 - Reviewing code.
-- Automating quality control.
+- Working efficiently on one project with a scalable team.
+- Raising quality without effort.
 
 On the second day, participants will get an introduction on what techniques can
 be helpful when managing an own software development team. Quality and speed
