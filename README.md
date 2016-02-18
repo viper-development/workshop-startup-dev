@@ -71,6 +71,10 @@ Time         |Topic
 11:45 - 12:00|Git Basics - Excercise (*)
 12:00 - 12:10|Pushing
 12:10 - 12:20|Pushing - Excercise (*)
+12:20 - 12:30|Distribution - Fork'n'Clone
+12:40 - 12:40|Fork and Clone coala (*)
+12:40 - 13:00|Issues and Task
+13:00 - 14:30|Make a Pull Request (*)
 
 ## Second Day
 

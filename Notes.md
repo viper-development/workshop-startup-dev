@@ -53,6 +53,19 @@ Creating, initial commit, second commit.
 - Add a remote (4)
 - Push it up (3)
 
+## Distribution - Fork'n'Clone (10)
+
+- That's why it's distributed
+- Access management
+- Teams
+- Remotes
+- Do it!
+
+## Fork and Clone coala (10)
+
+- Fork it
+- Clone it
+
 # Day 2
 
 ## Introduction
