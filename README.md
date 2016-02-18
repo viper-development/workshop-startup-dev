@@ -50,10 +50,7 @@ piece of software that supports developers during their whole workflow.
   about Git and software team management.
 - Please bring a laptop.
 - Do not forget a charger.
-- A free account registration at github.com is required. If you're idealistic,
-  read
-  [Terms of Service](https://help.github.com/articles/github-terms-of-service/)
-  and check if you're good with them.
+- Please register a free account at <http://github.com/>.
 - You should be able to understand english and german.
 
 # Schedule
@@ -72,6 +69,8 @@ Time         |Topic
 11:05 - 11:30|Git Setup and Break (Install, Config) (*)
 11:30 - 11:45|Git Basics - Introduction
 11:45 - 12:00|Git Basics - Excercise (*)
+12:00 - 12:10|Pushing
+12:10 - 12:20|Pushing - Excercise (*)
 
 ## Second Day
 

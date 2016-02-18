@@ -41,6 +41,18 @@
 
 Creating, initial commit, second commit.
 
+## Pushing (10)
+
+- Central Truth of a Team
+- Backup
+- That's how it's done
+
+## Pushing - Excercise (10)
+
+- Create a Repository (3)
+- Add a remote (4)
+- Push it up (3)
+
 # Day 2
 
 ## Introduction
