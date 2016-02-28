@@ -31,9 +31,9 @@ open source, collaboratively developed software. After he was awarded the Google
 Summer of Code sholarship, he began mentoring several students while
 administering the GSoC program for the GNOME organization. Currently he spends
 most of his time maintaining and developing his open source project coala to
-help developers improving their code quality without hassle. coala nowadays has
-more than ten contributors every week and is present at conferences all around
-the world.
+help developers improving their code quality without hassle. The coala project
+group has over 40 contributors and is present at conferences all around the
+world.
 
 In his spare time, Lasse forges high quality (mostly python) software and
 conducts workshops for clients of his company Viper Development
