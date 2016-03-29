@@ -16,7 +16,7 @@
 - Doit! (40)
     - Take notes
 
-# What do we do?
+# What do we do? (5)
 
 I want you to be able to do:
 
@@ -26,10 +26,10 @@ I want you to be able to do:
 
 Today that means Git!
 
-## What is Git (15)
+## What is Git (20)
 
 - What is git anyway (10)
-- What to do:
+- What to do if not done already:
     - Download
     - Install
     - Configure
