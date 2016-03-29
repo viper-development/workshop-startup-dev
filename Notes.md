@@ -20,6 +20,12 @@
 
 I want you to be able to do:
 
+- write software in a team without friction.
+- raise your code quality and stability over time!
+- scale your project (or rather not).
+
+Today that means Git!
+
 ## What is Git (15)
 
 - What is git anyway (10)
