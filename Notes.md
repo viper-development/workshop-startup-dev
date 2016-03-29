@@ -1,19 +1,24 @@
 # Day 1
 
-## Introduction (20)
+## Introduction (15)
 
-- I'm Lasse (5)
-- This is what we'll do. Especially today. (10)
-    - Git alone. Versions. Controlled.
-    - Pulling from a project - working together.
-    - Rewriting history - quality working.
+- I'm Lasse (10)
 - This Gitter channel we'll use for link exchange. (5)
 
-## Who is Who (30)
+## Who is Who (45)
 
-- Explain what you expect from this workshop, what peaqued your interest and
-  what possible IT project you would love to work on if you could choose any.
-- Two minutes for everyone.
+- Think about yourself! (5)
+    - What's your name?
+    - What's your idea?
+    - Draw a logo for your idea on the nameplate!
+    - What's your role with this? Idea, implementor, both?
+    - What's the one thing you whish to be answered during this seminar?
+- Doit! (40)
+    - Take notes
+
+# What do we do?
+
+I want you to be able to do:
 
 ## What is Git (15)
 
