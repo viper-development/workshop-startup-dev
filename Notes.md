@@ -199,4 +199,31 @@ Draw Draft (10)
 
 Shift! Check and annotate/correct mockup (10)
 
-## Prototyping
+## Prototyping (15)
+
+- A few weeks
+- Try out technical decisions and assumptions
+- Acknowledge problems, they'll be there!
+- Perform the most dirty hacks if needed
+- Give it people to test
+- Throw it away :)
+
+## Break (15)
+
+## Code Quality (15)
+
+- Complexity Raises
+- Stability Should Raise
+- Quality Should Raise
+
+After prototype:
+
+- Review
+- Write good commits
+- Test!
+
+Automate. Otherwise things will go wrong. Also saves work.
+
+- Code analysis. Find issues through deduction.
+- Test PRs.
+- Check for coverage.

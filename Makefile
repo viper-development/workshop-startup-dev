@@ -15,5 +15,5 @@ _compile:
 	@pandoc $(PRES) -t beamer -V theme:metropolis -s -o $(TARGET) --smart --slide-level 2
 	@echo " DONE."
 	@echo -n "Compiling notes..."
-	@pandoc $(NOTES) -o $(NOTES_TARGET)
+	@pandoc $(NOTES) -o $(NOTES_TARGET) --chapter
 	@echo " DONE."

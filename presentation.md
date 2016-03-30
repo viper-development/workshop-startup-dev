@@ -332,6 +332,31 @@ Draw mockup!
 
 ## Prototyping
 
-- Throw it away :)
-- Try out technical decisions
+- Try out technical decisions and assumptions
+- Perform the most dirty hacks if needed
 - Give it people to test
+- Throw it away :)
+
+# Break (Be Back at 15:30)
+
+## Code Quality
+
+- *Quality* should *raise* over time!
+- Because *complexity will raise* over time.
+
+Once you're out of prototype:
+
+- Review code!
+- Write atomic commits
+- Write tests
+
+## Code Quality Automation
+
+> Things go wrong when humans are involved.
+
+Wise words from *Lasse*
+
+- Use static code analysis! (E.g. coala)
+- Enforce it on Pull Requests. (E.g. GitMate)
+- Run tests automatically. (E.g. Travis CI, GitLab CI)
+- Check test coverage automatically. (E.g. codecov.io)

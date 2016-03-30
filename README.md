@@ -102,7 +102,11 @@ Time       |Topic
 14:05-14:20|Goals and Non Goals (*)
 14:20-14:30|Mockups
 14:30-15:00|Make Mockups (*)
-15:00-15:20|Prototyping
+15:00-15:15|Prototyping
+           |
+15:15-15:30|Break
+           |
+15:00-15:15|Code Quality
            |
 17:00-late |Hackevening
 
