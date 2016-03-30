@@ -85,3 +85,31 @@ index f0c41e9..093b844 100644
 +       @pandoc $(PRES) -s -o $(TARGET) -V classoption:aspectratio=169
         @echo " DONE."
 ```
+
+## Excercise!
+
+- Install Git
+- Say Good Bye to your GUI
+- Open the Git Shell
+- `git config --global core.editor notepad`
+- Create a directory; `cd` into it
+- `git init`
+- Create a file with some content
+- Help your neighbour
+
+## Staging
+
+![Git Staging](staging.png){height=55%}
+
+## A Repository is Nothing...
+
+![..but Commits](commits.png){height=55%}
+
+## Excercise!
+
+- Stage: `git add <your file>`; `git status`
+- Commit: `git commit`, enter message, close editor; `git show`
+- Change your file
+- Autostage and Commit: `git commit -a`
+
+![Git Staging](staging.png){height=35%} ![Commits](commits.png){height=35%}

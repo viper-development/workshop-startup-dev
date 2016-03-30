@@ -26,26 +26,22 @@ I want you to be able to do:
 
 Today that means Git!
 
-## What is Git (20)
+## What is Git (10)
 
-- What is git anyway (10)
-- What to do if not done already:
-    - Download
-    - Install
-    - Configure
+- What is git anyway? (5)
+- What is a commit? (5)
 
-## Setup and Break (25)
+## Git Setup (20)
 
-- Install Git
-- Config Git
-- Drink Tea
+- Download
+- Install
+- Configure
+- Create and `init` project
+- Create a file
 
-## Git Basics (15)
+## Staging, Committing (10)
 
-- Creating a Project
 - Repository vs. Files
-- Making an intial commit
-- Making a second commit
 - Commits are objects!
 
 ## Git Basics - Excercise (15)

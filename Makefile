@@ -10,5 +10,5 @@ continuous: default
 
 _compile:
 	@echo -n "Compiling markdown to pdf..."
-	@pandoc $(PRES) -t beamer -V classoption:aspectratio=169 -V theme:metropolis -s -o $(TARGET) --smart --slide-level 2
+	@pandoc $(PRES) -t beamer -V theme:metropolis -s -o $(TARGET) --smart --slide-level 2
 	@echo " DONE."
