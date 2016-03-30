@@ -103,18 +103,12 @@ Time       |Topic
 14:20-14:30|Mockups
 14:30-15:00|Make Mockups (*)
 15:00-15:15|Prototyping
+15:15-15:30|Usability Testing (*)
            |
-15:15-15:30|Break
+15:30-15:45|Break
            |
-15:00-15:15|Code Quality
+15:45-16:30|Mockup & Test Presentation (*)
+16:30-16:40|Code Quality
+16:40-16:45|Scalability
            |
 17:00-late |Hackevening
-
-1. Software Development vs. Programming
-2. Prototyping
-3. Quality
-4. Discussion: Testing? Documentation? Quality? Speed?
-5. Scaling
-6. Hackevening!
-
-13:30-18:00h

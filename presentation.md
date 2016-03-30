@@ -337,7 +337,26 @@ Draw mockup!
 - Give it people to test
 - Throw it away :)
 
-# Break (Be Back at 15:30)
+## Usability Testing
+
+Define Task:
+
+- Not suggestive!
+- Give goals, not paths
+
+## Usability Testing
+
+Define test instructions for your scenario.
+
+> Run our program.
+
+> Check your code using coala.
+
+# Break (Be Back at 15:45)
+
+## Mockup & Test Presentation
+
+[2 Minutes Each](http://www.tickcounter.com/2minutes)
 
 ## Code Quality
 
@@ -360,3 +379,72 @@ Wise words from *Lasse*
 - Enforce it on Pull Requests. (E.g. GitMate)
 - Run tests automatically. (E.g. Travis CI, GitLab CI)
 - Check test coverage automatically. (E.g. codecov.io)
+
+## Documentation Testing
+
+```python
+def add(*args):
+   """
+   Adds the given numbers while ignoring None's.
+
+   >>> add(2, None, 6)
+   8
+
+   :param args: The numbers to add.
+   :return:     The sum of the given numbers.
+   """
+   return sum((arg or 0) for arg in args)
+```
+
+## Scalability
+
+If a team grows, split it up.
+
+*Do not attempt to manage it.*
+
+# Questions?
+
+# Internationalization and Localization
+
+## Internationalization
+
+```python
+from gettext import _
+
+things_to_buy = (_('a Ford Prefect') + ' '
+                 _('and') + ' ' +
+                 ', '.join([_('mice'), _('towel')]))
+
+print(_("Let's buy {}.".format(things_to_buy))
+```
+
+## Localization
+
+- Translators shouldn't need to use git!
+- Translators should have a possibility to file bugs for wrong i18n!
+
+# Releasing
+
+## Milestones vs. Schedule
+
+Feature based releases?
+
+## Tracing Changes
+
+Updating `CHANGELOG`s sucks!
+
+- Track a wiki page.
+- Maintainer updates on release.
+- Annotate commit messages.
+
+## Backporting
+
+Fix bugs in old releases.
+
+- Cherry Pick
+
+## Automation
+
+- Release
+- Prerelease
+- Deployment

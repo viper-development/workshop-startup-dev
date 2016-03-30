@@ -208,9 +208,32 @@ Shift! Check and annotate/correct mockup (10)
 - Give it people to test
 - Throw it away :)
 
+## Usability Testing (15)
+
+- Explain (5)
+    - Make an MVP/Prototype/Interactive Mockup
+    - Define a Task
+        - Not suggestive (Load vs. open, what's on button?)
+        - Goals, not paths
+
+> Run our program.
+
+> Check your code using coala.
+
+- Define test for your scenario (10)
+
 ## Break (15)
 
-## Code Quality (15)
+## Mockup & Test Presentation (30)
+
+- Show us:
+    - Mockup
+    - Test
+    - Pin it
+
+2 minutes each, 1.5 minutes feedback
+
+## Code Quality (10)
 
 - Complexity Raises
 - Stability Should Raise
@@ -227,3 +250,10 @@ Automate. Otherwise things will go wrong. Also saves work.
 - Code analysis. Find issues through deduction.
 - Test PRs.
 - Check for coverage.
+- Documentation tests! :)
+
+## Scalability (5)
+
+If a team grows, split it up.
+
+*Do not attempt to manage it.*
