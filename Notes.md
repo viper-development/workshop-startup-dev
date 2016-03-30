@@ -257,3 +257,9 @@ Automate. Otherwise things will go wrong. Also saves work.
 If a team grows, split it up.
 
 *Do not attempt to manage it.*
+
+## Closing (15)
+
+- What was good?
+- What was bad?
+- What are you missing for managing your team?

@@ -402,6 +402,8 @@ If a team grows, split it up.
 
 *Do not attempt to manage it.*
 
+# Closing
+
 # Questions?
 
 # Internationalization and Localization

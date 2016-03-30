@@ -110,5 +110,6 @@ Time       |Topic
 15:45-16:30|Mockup & Test Presentation (*)
 16:30-16:40|Code Quality
 16:40-16:45|Scalability
+16:45-17:00|Closing
            |
 17:00-late |Hackevening
