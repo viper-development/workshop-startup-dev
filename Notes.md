@@ -48,6 +48,15 @@ Today that means Git!
 
 Creating, initial commit, second commit.
 
+## GitHub/GitLab (10)
+
+- Backup
+- Task Management
+
+## Grab an Issue (5)
+
+Grab the issue. First comment gets it.
+
 ## Pushing (10)
 
 - Central Truth of a Team

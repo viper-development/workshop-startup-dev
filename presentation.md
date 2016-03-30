@@ -19,6 +19,7 @@ https://gitter.im/coala-analyzer/coala/workshops
 ## Who is Who
 
 - Name
+- GitHub Nick
 - Idea
 - Logo
 - Idea? Implementor? Both?
@@ -27,6 +28,8 @@ https://gitter.im/coala-analyzer/coala/workshops
 [5 Minutes Prep!](http://www.tickcounter.com/5minutes)
 
 [3 Minutes Each (next one line up)](http://www.tickcounter.com/3minutes)
+
+You'll be invited.
 
 # What do we do?
 
@@ -97,6 +100,8 @@ index f0c41e9..093b844 100644
 - Create a file with some content
 - Help your neighbour
 
+[20 Minutes](http://www.tickcounter.com/20minutes)
+
 ## Staging
 
 ![Git Staging](staging.png){height=55%}
@@ -112,4 +117,40 @@ index f0c41e9..093b844 100644
 - Change your file
 - Autostage and Commit: `git commit -a`
 
+[15 Minutes](http://www.tickcounter.com/15minutes)
+
 ![Git Staging](staging.png){height=35%} ![Commits](commits.png){height=35%}
+
+## Git(Hub|Lab)
+
+![Backup, Sharing, Task Management](backup.jpg)
+
+## Task Management
+
+![Make it Chewable](partitioned.jpg)
+
+## Grab an Issue!
+
+http://tinyurl.com/coala-new
+
+The first one to comment gets it! Do not comment if you see there's a comment
+already. There are enough for everybody.
+
+[5 Minutes](http://www.tickcounter.com/5minutes)
+
+## Fork!
+
+![Forking](fork.png){height=50%}
+
+## Let's Fork for Real!
+
+Go to the repository of your issue. It'll be *one of*:
+
+- https://github.com/coala-analyzer/coala/
+- https://github.com/coala-analyzer/coala-bears/
+
+And fork it:
+
+- Do not watch it. Many emails...
+- Star it (optional :))
+- Click on `Fork`
