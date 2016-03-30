@@ -70,7 +70,7 @@ Time         |Topic
 11:15 - 11:35|Git Setup and Break (Install, Config) (*)
 11:35 - 11:45|Staging, Committing
 11:45 - 12:00|Git Basics - Excercise (*)
-12:00 - 12:10|Git(Hub|Lab)
+12:00 - 12:10|GitHub/Lab
 12:10 - 12:15|Grab an Issue (*)
 12:15 - 12:25|Forking
 12:25 - 12:40|Fork'n'Clone coala (*)
