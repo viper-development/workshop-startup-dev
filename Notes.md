@@ -3,6 +3,7 @@
 ## Introduction (15)
 
 - I'm Lasse (10)
+- Ask questions always!
 - This Gitter channel we'll use for link exchange. (5)
 
 ## Who is Who (45)

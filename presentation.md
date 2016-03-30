@@ -231,4 +231,12 @@ Support and reviews will be provided at least until 0 am local time on
 - https://gitter.im/coala-analyzer/coala/workshops
 - https://gitter.im/coala-analyzer/coala
 
+# Questions
+
 # Closing
+
+## Closing
+
+- Meet **tomorrow at 1 pm**
+- We'll speak about some cool stuff!
+- We'll have a hackevening with pizza.

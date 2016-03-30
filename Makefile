@@ -1,5 +1,7 @@
 PRES = presentation.md
 TARGET = presentation.pdf
+NOTES = Notes.md
+NOTES_TARGET = notes.pdf
 
 default: _compile
 
@@ -9,6 +11,9 @@ continuous: default
 
 
 _compile:
-	@echo -n "Compiling markdown to pdf..."
+	@echo -n "Compiling presentation..."
 	@pandoc $(PRES) -t beamer -V theme:metropolis -s -o $(TARGET) --smart --slide-level 2
+	@echo " DONE."
+	@echo -n "Compiling notes..."
+	@pandoc $(NOTES) -o $(NOTES_TARGET)
 	@echo " DONE."
