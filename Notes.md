@@ -57,6 +57,17 @@ Creating, initial commit, second commit.
 
 Grab the issue. First comment gets it.
 
+## Forking (10)
+
+- Everything is a copy
+- One is **considered** truth
+
+## Fork'n'Clone coala (15)
+
+- Fork coala
+- Clone it
+- Add upstream remote
+
 ## Pushing (10)
 
 - Central Truth of a Team
@@ -81,6 +92,12 @@ Grab the issue. First comment gets it.
 
 - Fork it
 - Clone it
+
+## Solve it!
+
+- Do the issue.
+- Make a commit!
+- Make a PR.
 
 # Day 2
 

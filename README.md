@@ -72,9 +72,10 @@ Time         |Topic
 11:45 - 12:00|Git Basics - Excercise (*)
 12:00 - 12:10|Git(Hub|Lab)
 12:10 - 12:15|Grab an Issue (*)
-12:40 - 12:40|Fork and Clone coala (*)
-12:40 - 13:00|Issues and Task
-13:00 - 14:30|Make a Pull Request (*)
+12:15 - 12:25|Forking
+12:25 - 12:40|Fork'n'Clone coala (*)
+12:40 - 13:15|Solve Your Issue, Pull Request (*)
+13:15 - 14:30|Lunch Break
 
 ## Second Day
 

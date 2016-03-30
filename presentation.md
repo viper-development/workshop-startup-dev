@@ -142,7 +142,7 @@ already. There are enough for everybody.
 
 ![Forking](fork.png){height=50%}
 
-## Let's Fork for Real!
+## Fork'n'Clone
 
 Go to the repository of your issue. It'll be *one of*:
 
@@ -154,3 +154,19 @@ And fork it:
 - Do not watch it. Many emails...
 - Star it (optional :))
 - Click on `Fork`
+
+## Clone
+
+- `git clone <url-of-your-fork-shown-by-github>`
+- `cd coala`
+- `git remote add upstream <url-of-original-shown-by-github>`
+
+## Do It!
+
+- Solve the issue!
+- Do a commit.
+- `git push` it up
+- On GitHub make a Pull Request
+- Help your neighbour
+
+# Lunch Break
