@@ -75,15 +75,20 @@ Time         |Topic
 12:15 - 12:25|Forking
 12:25 - 12:40|Fork'n'Clone coala (*)
 12:40 - 13:15|Solve Your Issue, Pull Request (*)
+             |
 13:15 - 14:30|Lunch Break
+             |
 14:30 - 14:45|Code Reviews (*)
 14:45 - 14:55|Commit Messages
 14:55 - 15:30|Iterate (*)
 15:30 - 15:45|Rebase and History
 15:45 - 16:00|Rebase (*)
+             |
 16:00 - 16:20|Break
+             |
 16:20 - 16:35|Fast Forward
 16:35 - 16:45|Challenge
+             |
 16:45 - 17:15|Closing
 
 ## Second Day
@@ -92,8 +97,8 @@ Topic: Managing a Software Development Team
 
 Time       |Topic
 -----------|-------------------------------------------
-13:30-14:00|Software Development vs. Programming
-14:00-14:10|Prototyping
+13:00-13:30|Welcome & Chocolate Showcase (*)
+13:30-13:45|Mockups
            |
 17:00-late |Hackevening
 

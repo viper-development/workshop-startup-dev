@@ -240,3 +240,13 @@ Support and reviews will be provided at least until 0 am local time on
 - Meet **tomorrow at 1 pm**
 - We'll speak about some cool stuff!
 - We'll have a hackevening with pizza.
+- I'm here right now as long as needed to answer all questions and hack with
+  you!
+
+# Software Dev. in Awesome Teams
+
+## Welcome & Chocolate Showcase!
+
+**Chocolate!**
+
+##

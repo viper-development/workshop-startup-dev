@@ -106,7 +106,9 @@ Grab the issue. First comment gets it.
 
 What are reviews good for?
 
-PostIts?
+Done by another person!
+
+PostIts
 
 ## Commit Messages (10)
 
@@ -153,7 +155,7 @@ judgement of reasonabilities are final (10)
 
 # Day 2
 
-## Introduction
+## Welcome
 
 - Welcome back!
-- This is what we'll do today.
+- Here's some chocolate for some great things (showcase!)
