@@ -76,6 +76,15 @@ Time         |Topic
 12:25 - 12:40|Fork'n'Clone coala (*)
 12:40 - 13:15|Solve Your Issue, Pull Request (*)
 13:15 - 14:30|Lunch Break
+14:30 - 14:45|Code Reviews (*)
+14:45 - 14:55|Commit Messages
+14:55 - 15:30|Iterate (*)
+15:30 - 15:45|Rebase and History
+15:45 - 16:00|Rebase (*)
+16:00 - 16:20|Break
+16:20 - 16:35|Fast Forward
+16:35 - 16:45|Challenge
+16:45 - 17:15|Closing
 
 ## Second Day
 

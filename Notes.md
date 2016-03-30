@@ -99,6 +99,57 @@ Grab the issue. First comment gets it.
 - Make a commit!
 - Make a PR.
 
+## Lunch
+
+## Code Reviews (15)
+
+What are reviews good for?
+
+PostIts?
+
+## Commit Messages (10)
+
+- Style
+- Atomic!
+- Reviewable!
+- Bisect, blame.
+
+## Iterate (35)
+
+- Do needed changes
+- `git commit -a`
+
+## Rebase and History (15)
+
+Rebase: recreate commit
+
+- Rerun automatic checks
+- Rereview code in the right context
+- **Be safe**
+
+## Rebase (Excercise)
+
+People rebase their branches.
+
+## Break
+
+All commits are cherry picked into one PR, builds are cancelled.
+
+## Fast Forward (15)
+
+PR is merged with rultor publically. Hope it works :P
+
+## Challenge
+
+difficulty/low PR -> chocolate
+judgement of reasonabilities are final (10)
+
+## Closing
+
+- What was good?
+- What was bad?
+- What are you missing for managing your team?
+
 # Day 2
 
 ## Introduction

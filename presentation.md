@@ -169,4 +169,66 @@ And fork it:
 - On GitHub make a Pull Request
 - Help your neighbour
 
-# Lunch Break
+# Lunch Break (Be Back at 14:30h)
+
+## Code Reviews
+
+What is it good for?
+
+[10 Minutes](http://www.tickcounter.com/10minutes)
+
+## Code Reviews
+
+- Quality
+- Learning from each other.
+- Can be partly automated!
+- Iterate! More issues, higher difficulty and naturally more reviews.
+
+## Commit Messages
+
+```
+setup: Install .coafile via package_data
+
+When installing the .coafile to
+distutils.sysconfig.get_python_lib, we ignore that this
+is not the installation directory in every case. Thus
+it is easier, more reliable and platform independent to
+let distutils install it by itself.
+
+Fixes https://github.com/coala-analyzer/coala/issues/269
+```
+
+## Iterate
+
+- Change
+- `git commit -a --amend` - replace your previous commit
+- `git push --force`
+
+## Rebase
+
+![Rebase](rebase.png)
+
+## Rebase (Excercise)
+
+- `git fetch upstream`
+- `git rebase -i upstream/master`
+
+[15 Minutes](http://www.tickcounter.com/15minutes)
+
+![Remember?](fork.png){height=40%}
+
+# Break (Be Back at 16:20h)
+
+# Fast Forward!
+
+## Challenge:
+
+Everyone who submits a reasonable PR for an issue out of
+<http://tinyurl.com/coala-low> by tomorrow get's a bar of chocolate!
+
+Support and reviews will be provided at least until 0 am local time on
+
+- https://gitter.im/coala-analyzer/coala/workshops
+- https://gitter.im/coala-analyzer/coala
+
+# Closing
