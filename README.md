@@ -53,7 +53,7 @@ piece of software that supports developers during their whole workflow.
 - Please register a free account at <http://github.com/>.
 - You should be able to understand english and german.
 
-# Schedule (Unfinished)
+# Schedule
 
 Excercises are marked with (*).
 
