@@ -159,3 +159,44 @@ judgement of reasonabilities are final (10)
 
 - Welcome back!
 - Here's some chocolate for some great things (showcase!)
+
+## Teambuilding
+
+Explain (5)
+
+- You've got ideas
+- Let's work on them, they're great
+- At least 4 volunteers
+
+Pitch ideas (30, adjust time per participant accordingly)
+
+Vote with hands (5)
+
+Volunteers each go into one edge, two people max. may join (5)
+
+## Goals and Non Goals
+
+Explain (5)
+
+Determine on postits (10)
+
+## Mockups
+
+Examples (10)
+
+## Mockups Excercise
+
+Iterative  Async Workflow - just as PRs. Because traditional teamwork sucks
+away all your time without being productive! (5)
+
+Set Tasks (issues!) (5)
+
+- Project leader writes 3 scenarios.
+- Members take it
+- Leader takes the leftover
+
+Draw Draft (10)
+
+Shift! Check and annotate/correct mockup (10)
+
+## Prototyping

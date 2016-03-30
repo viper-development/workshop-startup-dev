@@ -180,6 +180,7 @@ What is it good for?
 ## Code Reviews
 
 - Quality
+- **Ensure** Understandability!
 - Learning from each other.
 - Can be partly automated!
 - Iterate! More issues, higher difficulty and naturally more reviews.
@@ -249,4 +250,88 @@ Support and reviews will be provided at least until 0 am local time on
 
 **Chocolate!**
 
-##
+## Teambuilding
+
+- You've got ideas!
+
+[4 Volunteers: 7.5 Minutes](http://www.tickcounter.com/7minutes30seconds)
+
+[5 Volunteers: 6 Minutes](http://www.tickcounter.com/6minutes)
+
+[6 Volunteers: 5 Minutes](http://www.tickcounter.com/5minutes)
+
+[7 Volunteers: 4 and a bit Minutes](http://www.tickcounter.com/4minutes10seconds)
+
+[8 Volunteers: 3.75 Minutes](http://www.tickcounter.com/3minutes45seconds)
+
+[9 Volunteers: 3.33 Minutes](http://www.tickcounter.com/3minutes20seconds)
+
+[10 Volunteers: 3 Minutes](http://www.tickcounter.com/3minutes)
+
+## Teambuilding
+
+- Vote
+- Winners into Edges of the Room, max two people follow
+
+## Goals and Non Goals
+
+- Set primary, possibly secondary goals.
+- Set **non goals**.
+
+[10 Minutes](http://www.tickcounter.com/10minutes)
+
+## Mockups: CLI
+
+```
+$ coala
+/home/lasse/prog/coala/setup.py
+|   2| ••••
+|    | [NORMAL] SpaceConsistencyBear:
+|    | Line contains trailing whitespaces.
+|    | The following actions are applicable:
+|    |  0: Apply no further actions.
+|    |  1: Open the affected file(s) in an editor.
+|    |  2: Apply the patch automatically.
+|    |  3: Print a diff of the patch.
+```
+
+## Mockups: GUI
+
+https://wiki.gnome.org/Design/Apps/Mail
+
+Use the power of Inkscape!
+
+## Mockups: API
+
+```python
+@bear(depends_on=ClangASTBear)
+def ClangAnalysisBear(ClangASTBearResults: list()):
+    for diagnostic in ClangASTBearResults:
+        yield Result.from_clang_diagnostic(diagnostic)
+```
+
+## Make a Mockup
+
+- Project Leader: Split up in Three Scenarios
+- Members: Take Scenarios (Leader takes leftover)
+
+[5 Minutes](http://www.tickcounter.com/5minutes)
+
+## Make a Mockup
+
+Draw mockup!
+
+[10 Minutes](http://www.tickcounter.com/10minutes)
+
+## Make a Mockup
+
+- Rotate counterclockwise
+- Check and annotate mockup
+
+[10 Minutes](http://www.tickcounter.com/10minutes)
+
+## Prototyping
+
+- Throw it away :)
+- Try out technical decisions
+- Give it people to test

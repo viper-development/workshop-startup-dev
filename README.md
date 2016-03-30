@@ -97,8 +97,12 @@ Topic: Managing a Software Development Team
 
 Time       |Topic
 -----------|-------------------------------------------
-13:00-13:30|Welcome & Chocolate Showcase (*)
-13:30-13:45|Mockups
+13:00-13:20|Welcome & Chocolate Showcase
+13:20-14:05|Teambuilding (*)
+14:05-14:20|Goals and Non Goals (*)
+14:20-14:30|Mockups
+14:30-15:00|Make Mockups (*)
+15:00-15:20|Prototyping
            |
 17:00-late |Hackevening
 
