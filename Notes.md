@@ -16,7 +16,7 @@
 - Doit! (40)
     - Take notes
 
-# What do we do? (5)
+## What do we do? (5)
 
 I want you to be able to do:
 
