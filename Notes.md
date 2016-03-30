@@ -34,7 +34,7 @@ Today that means Git!
     - Install
     - Configure
 
-## Git Setup and Break (25)
+## Setup and Break (25)
 
 - Install Git
 - Config Git
