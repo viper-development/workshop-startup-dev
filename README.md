@@ -66,9 +66,9 @@ Time         |Topic
 10:00 - 10:15|Introduction
 10:15 - 11:00|Who is Who (*)
 11:00 - 11:05|What do we do?
-11:05 - 11:20|What is Git
-11:05 - 11:30|Git Setup and Break (Install, Config) (*)
-11:30 - 11:45|Git Basics - Introduction
+11:05 - 11:15|What is Git
+11:15 - 11:35|Git Setup and Break (Install, Config) (*)
+11:35 - 11:45|Staging, Committing
 11:45 - 12:00|Git Basics - Excercise (*)
 12:00 - 12:10|Pushing
 12:10 - 12:20|Pushing - Excercise (*)
