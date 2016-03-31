@@ -266,8 +266,6 @@ Support and reviews will be provided at least until 0 am local time on
 
 [9 Volunteers: 3.33 Minutes](http://www.tickcounter.com/3minutes20seconds)
 
-[10 Volunteers: 3 Minutes](http://www.tickcounter.com/3minutes)
-
 ## Teambuilding
 
 - Vote
@@ -358,6 +356,14 @@ Define test instructions for your scenario.
 
 [2 Minutes Each](http://www.tickcounter.com/2minutes)
 
+## Working in a Team
+
+Discussion:
+
+- Scrum
+- Feature Based vs. Time Based Release
+- Alternatives?
+
 ## Code Quality
 
 - *Quality* should *raise* over time!
@@ -398,9 +404,32 @@ def add(*args):
 
 ## Scalability
 
+Don't scale.
+
 If a team grows, split it up.
 
-*Do not attempt to manage it.*
+*Do not attempt to manage a large team.*
+
+## FAQ
+
+- Server in the Cloud?
+
+> Do **not** attempt AWS.
+
+- What Makes Good Software?
+
+> “Always code as if the person who ends up maintaining your code will be a
+  violent psychopath who knows where you live.”
+
+## FAQ
+
+- How Much Should I Test?
+
+> For Production? Everything.
+
+- How do I Motivate People?
+
+> Go the way ahead. You're crazy. Become a visionary.
 
 # Closing
 
